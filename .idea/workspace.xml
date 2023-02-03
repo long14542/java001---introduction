@@ -5,20 +5,13 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="8c645beb-7215-448c-9fda-eb3bc53d215a" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java01 - introduction.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/HelloWorld.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/javabai1/bai1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/javabai1/bai2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/javabai1/bai3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/javabai1/bai4.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/javabai1/bai5.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/tichandthuong.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/javabai2/DemoString.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/javabai2/bai2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/javabai2/bai3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/javabai2/bai5.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/javabai2/ptbac1haian.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -51,12 +44,12 @@
   }
 }</component>
   <component name="RunManager" selected="Application.bai5">
-    <configuration name="bai1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="javabai1.bai1" />
+    <configuration name="DemoString" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="javabai2.DemoString" />
       <module name="java01 - introduction" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="javabai1.*" />
+          <option name="PATTERN" value="javabai2.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -65,11 +58,11 @@
       </method>
     </configuration>
     <configuration name="bai2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="javabai1.bai2" />
+      <option name="MAIN_CLASS_NAME" value="javabai2.bai2" />
       <module name="java01 - introduction" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="javabai1.*" />
+          <option name="PATTERN" value="javabai2.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -78,24 +71,11 @@
       </method>
     </configuration>
     <configuration name="bai3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="javabai1.bai3" />
+      <option name="MAIN_CLASS_NAME" value="javabai2.bai3" />
       <module name="java01 - introduction" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="javabai1.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="bai4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="javabai1.bai4" />
-      <module name="java01 - introduction" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="javabai1.*" />
+          <option name="PATTERN" value="javabai2.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -104,11 +84,24 @@
       </method>
     </configuration>
     <configuration name="bai5" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="javabai1.bai5" />
+      <option name="MAIN_CLASS_NAME" value="javabai2.bai5" />
       <module name="java01 - introduction" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="javabai1.*" />
+          <option name="PATTERN" value="javabai2.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ptbac1haian" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="javabai2.ptbac1haian" />
+      <module name="java01 - introduction" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="javabai2.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -119,10 +112,10 @@
     <recent_temporary>
       <list>
         <item itemvalue="Application.bai5" />
-        <item itemvalue="Application.bai4" />
+        <item itemvalue="Application.DemoString" />
         <item itemvalue="Application.bai3" />
         <item itemvalue="Application.bai2" />
-        <item itemvalue="Application.bai1" />
+        <item itemvalue="Application.ptbac1haian" />
       </list>
     </recent_temporary>
   </component>
